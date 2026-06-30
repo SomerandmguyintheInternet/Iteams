@@ -1,0 +1,41 @@
+# License & Copyright
+
+**ITeams** is not open source.
+
+Copyright © 2024–2026 Tentari. All rights reserved.
+
+---
+
+## Why This Project Stays Private
+
+This codebase represents years of iterative development — from a lightweight billing utility to an AI-native operations platform. The business logic embedded across six major versions is the result of deep domain knowledge, real-world operational feedback, and countless hours of refinement.
+
+The following are NOT included in any public grant:
+
+- The database schemas for accounting, billing, GST, and subscriber management
+- The financial calculation logic (balance computation, due tracking, payment reconciliation)
+- The AI system prompt architecture and multi-step agent pipeline
+- The LE GeX knowledge graph entity mappings
+- The ISP/telecom Radius integration patterns
+- The GST compliance workflows and tax calculation rules
+- The SMS automation and billing reminder logic
+- The role-based permission model and integration access control
+
+These are not trivial to replicate. They are the product of direct operational experience, not theoretical design.
+
+---
+
+## What This Means
+
+- You may not copy, modify, distribute, sublicense, or use this code or any derivative works without explicit written permission from the owner.
+- You may not use this software to operate a competing service.
+- You may not extract the business logic, database schemas, or AI system prompts for use in another project.
+- This restriction applies to all files in this repository, including documentation, configuration, and build scripts, unless explicitly marked otherwise.
+
+---
+
+## Contact
+
+**Tentari** — sole developer and maintainer.
+
+For licensing inquiries, reach out via Discord: **@pixelhollow**
